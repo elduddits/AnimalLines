@@ -21,7 +21,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F21F809D2379E89500C10994 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.markdown; };
 		F2A2CB1523454F99007EE1A6 /* Animal Lines.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Animal Lines.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2A2CB1823454F99007EE1A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2A2CB1A23454F99007EE1A6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,7 +50,6 @@
 		F2A2CB0C23454F99007EE1A6 = {
 			isa = PBXGroup;
 			children = (
-				F21F809D2379E89500C10994 /* README.md */,
 				F2A2CB1723454F99007EE1A6 /* AnimalLines */,
 				F2A2CB1623454F99007EE1A6 /* Products */,
 			);
